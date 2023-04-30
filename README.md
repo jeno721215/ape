@@ -1,1 +1,1 @@
-fix predict with class filter
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
