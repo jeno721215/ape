@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Merge pull request #22 from SkalskiP/patch-1
