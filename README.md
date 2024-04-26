@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+fix val each epoch
