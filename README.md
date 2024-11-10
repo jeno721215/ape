@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Add domain checks to CI docs page (#8714)
